@@ -20,12 +20,20 @@ O desafio consiste em criar uma interface interativa para pesquisa e exibiçao d
 ### Os canditados serão avaliados seguindo os seguintes critérios: 
 - O Projeto deve ser desenvolvido utlizando, exclusivamente, o framework ReactJs com react-hooks;
 - Na há obrigatoriedade para uso de typescript, porém, pode ser utilizado;
-- Vocês podem utilizar qualquer outra lib para react ou ferramenta de design para complementar o projeto, mas é importante destacá-las na descrição de seu projeto e o porque de utilizá-las;
-- A organização e estrutura dos commits é fundamental assim como o trabalho em equipe;
-- Cada membro da equipe deverá fazer uma breve descrição do que fez no projeto, bem como as suas facilidades e as suas dores no processo de desenvolvimento;
+- Cada membro da equipe deverá fazer uma breve descrição do que fez no projeto, bem como as suas facilidades e as suas dores no processo de desenvolvimento (deverá ser dito durante a Daily, no final do processo seletivo);
 - A entrega incompleta do projeto não é fator excludente, pois queremos avaliar como vocês se saem diante do problema apresentado e temos ciência de que o período para desenvolvimento é curto; (é mais importante qualidade do que quantidade na entrega);
 - A qualidade do código, utilização dos hooks de maneira correta, design patern do projeto, boas práticas de código, UI e UX e o trabalho em equipe serão os fatores que mais contarão para avaliação de cada candidato;
 - O projeto será realizado em duplas ou trios, se necessário, pois queremos avaliar como vocês se saem trabalhado em equipe, porém o processo de avaliação será feito de maneira individual;
+
+### Como subir o projeto ?
+
+- Cada pessoa possuirá um usário específico no github. Como por exemplo, caso você seja do grupo 1 e seja uma dupla, vocês terão 3 branchs, na qual uma delas é a união das alterações feitas em conjunto e as outras duas são relativas as branchs de cada um.
+
+- O nome das branchs deverá seguir o seguinte padrão:
+
+`grupo01-user01` | `grupo01-user02` | `grupo01`
+
+- Lembre-se que grupo01 é a branch que mescla as alterações feita por ambos, caso tenha dúvida, peça ajuda.
 
 
 ## Documentação completa da API:
